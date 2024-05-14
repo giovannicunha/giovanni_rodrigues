@@ -1,0 +1,28 @@
+h2 {color:red;}
+table, th, td{
+    border: 1px solid black;
+}
+
+spam {color:red;}
+p {
+    text-align: justify;
+}
+a:link {
+    color: red;
+}
+
+/* visited link*/
+a:visited {
+    color: green;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+    cursor: grab;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
